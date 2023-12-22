@@ -12,7 +12,7 @@
   <tr>
     <td><a href="https://github.com/LydmiLAB/yandex-praktikum-projects/tree/main/predicting_gold_rate">Прогноз восстановления золота из руды</a></td>
     <td>Разработана модель машинного обучения для прогнозирования коэффициента восстановления золота при очистке руды для оптимизации его производства, чтобы снизить риск запуска убыточного предприятия.</td>
-    <td>Pandas, Sklearn, NumPy, Seaborn, matplotlib / MinMaxScaler, RandomizedSearchCV, make_scorer,  LinearRegression, DecisionTreeRegressor, RandomForestRegressor</td>
+    <td>Python, Pandas, Sklearn, NumPy, Seaborn, matplotlib / MinMaxScaler, RandomizedSearchCV, make_scorer,  LinearRegression, DecisionTreeRegressor, RandomForestRegressor</td>
   </tr>
 </table>
 
