@@ -2,7 +2,7 @@
 
 | Данные            |  Задача           | Библиотеки и инструменты|
 | :---------------: | :----------------:|:----------------------:|
-| Параметры добычи и очистки. | Разработать инструмент прогнозирования коэффициента восстановления золота при очистке золотосодержащей руды для снижения риска запуска убыточного предприятия. |Pandas, Sklearn, NumPy, Seaborn, matplotlib / MinMaxScaler, RandomizedSearchCV, make_scorer, LinearRegression, DecisionTreeRegressor, RandomForestRegressor|
+| Параметры добычи и очистки. | Разработать инструмент прогнозирования коэффициента восстановления золота при очистке золотосодержащей руды для снижения риска запуска убыточного предприятия. | Python, Pandas, Sklearn, NumPy, Seaborn, matplotlib / MinMaxScaler, RandomizedSearchCV, make_scorer, LinearRegression, DecisionTreeRegressor, RandomForestRegressor|
 
 **Описание:**  
 
