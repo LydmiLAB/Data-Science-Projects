@@ -1,4 +1,4 @@
-# 01-yandex-music
+# 01 Yandex Music
 | Data            |  Task                | Libraries and tools | 
 | :--------------: | :---------------------------: |:----------------------:|
 | User behavior data |To explore the data and compare the behavior and preferences of Yandex Music users in two cities by testing hypotheses| Python, Pandas|
