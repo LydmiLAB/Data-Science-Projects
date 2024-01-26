@@ -1,4 +1,4 @@
-# 07-bank-churn-predictions
+# Bank churn predictions
 
 | Data            |  Task                | Libraries and tools | 
 | :--------------: | :---------------------------: |:----------------------:|
