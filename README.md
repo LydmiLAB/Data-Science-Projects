@@ -7,11 +7,11 @@
 
 **Description:**  
 
-- -- The average stock of predicted raw materials and the size of the error for each region were calculated. 
- -- A sufficient volume of raw materials has been calculated for the break-even development of a new well. 
-  -- Profit in each region is calculated.
-  -- A model was built to predict the volume of reserves of new wells. 
-  -- Potential risks, profits and confidence intervals for each region and
+- The average stock of predicted raw materials and the size of the error for each region were calculated.  
+- A sufficient volume of raw materials has been calculated for the break-even development of a new well.   
+- Profit in each region is calculated.  
+- A model was built to predict the volume of reserves of new wells. 
+- Potential risks, profits and confidence intervals for each region and
 analyzed using Bootstrap method.
  
 **Result:**
