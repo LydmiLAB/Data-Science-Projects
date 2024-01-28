@@ -1,8 +1,8 @@
-# Taxi Order Forecasting for 1 hour
+# Taxi Order Forecasting for 1 Hour
 
 | Data            |  Task                | Libraries and tools | 
 | :--------------: | :---------------------------: |:----------------------:|
-|  Historical data on taxi orders at airports. | Develop a system for predicting the volume of taxi orders.| Python, sklearn, Pandas, numpy, seaborn, Matplotlib, datetime, os, pipeline, random, statistics, lightgbm, tqdm / histogram, heatmap, barplot, gradient boosting, regression, Numerical methods, MinMaxScaler, OneHotEncoder, RandomizedSearchCV, TimeSeriesSplit, LGBMRegressor, Ridge, DummyRegressor, time series, regression, predictions|
+|  Historical data on taxi orders at airports. | Develop a system for predicting the volume of taxi orders.| Python, sklearn, Pandas, numpy, seaborn, Matplotlib, datetime, os, pipeline, random, statistics, lightgbm, tqdm / heatmap, barplot,  Numerical methods, MinMaxScaler, OneHotEncoder, RandomizedSearchCV, TimeSeriesSplit, LGBMRegressor, Ridge, DummyRegressor, time series, regression, predictions|
 
 
 **Description:**  
