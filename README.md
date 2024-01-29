@@ -10,9 +10,9 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
 
 <table>
   <tr>
-    <th>Название проекта</th>
-    <th style="width:60%;">Описание</th>
-    <th>Библиотеки и инструменты</th>
+    <th>Project</th>
+    <th style="width:60%;">Description</th>
+    <th>Libraries and tools</th>
   </tr>
 
   
