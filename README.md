@@ -6,8 +6,26 @@ The repository contains data science projects
 completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Prakticum  course.  
 
 <a href="https://github.com/LydmiLAB/yandex-praktikum-projects/blob/main/Yandex_Diplom_.jpg">Сertificate of completion of the course</a>
-![alt text](Yandex_Diplom_.jpg)
-![alt text](Yandex_ML-Training_.pdf)
+
+
+<table>
+  <tr>
+    <th>Yandex Diplom</th>
+    <th style="width:60%;">Yandex Competition Certificat</th>
+    <th>Hackaton Certificat Autumn Hack 2023, Glowbyte</th>
+  </tr>
+   <tr>
+    <td><img src="Yandex_Diplom_0.jpg" alt="alt text" width="310" height="190"></td>
+    <td><img src="ML_Training_Yandex.png" alt="alt text" width="310" height="190"></td>
+    <td><img src="GlowByte_Hackathon.jpeg" alt="alt text" width="160" height="190"></td>
+  </tr>
+   <tr>
+    <td><img src="Yandex_Diplom_.jpg" alt="alt text" width="310" height="190"></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+
 <table>
   <tr>
     <th>Project</th>
