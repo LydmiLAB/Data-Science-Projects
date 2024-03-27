@@ -35,7 +35,7 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
 
   
    <tr>
-    <td><a href="https://github.com/LydmiLAB/yandex-praktikum-projects/tree/main/15_client_churn_prediction_telecom">Client Churn Prediction</a></td>
+    <td><a href="15_client_churn_prediction_telecom">Client Churn Prediction</a></td>
     <td>The operator needs to find users in advance, who plans to refuse services connections, they will offer promotional codes and special conditions. A model has been developed to predict customer churn in order to reduce it and plan an advertising campaign.</td>
     <td>Python, Pandas, numpy, re, datetime, sweetviz, Matplotlib, seaborn, phik, sklearn, catboost, xgboost, lightgbm, optuna, shap, math, tqdm / MinMaxScaler, OneHotEncoder, OrdinalEncoder, OptunaSearchCV, GridSearchCV, RandomizedSearchCV, RandomForestClassifier, LogisticRegression, CatBoostClassifier, XGBClassifier, LGBMClassifier, roc_auc_score, Pipeline</td>
   </tr>
