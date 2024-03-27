@@ -8,7 +8,8 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
 <a href="diplomes/Yandex_Diplom_.jpg">Сertificate of completions and courses</a>
 
 
-<table style="height:30%;">
+<div style="height:30%;">
+<table>
    <tr>
     <td width="33%" align="center" style="vertical-align:0px;"><h4>Diplom, Yandex</h4><img src="diplomes/Yandex_Diplom_0.jpg" width="99%"><img src="diplomes/Yandex_Diplom_.jpg" width="99%"></td>
     <td width="33%" align="center" style="vertical-align:0px;"><h4>ML Competition, Yandex</h4><img src="diplomes/ML_Training_Yandex.png"  width="99%"></td>
@@ -20,7 +21,8 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
     <td width="33%" align="center" style="vertical-align:0px;"><h4>ML-course, Bank of Russia University</h4><img src="diplomes/CBR_certificate.jpg" width="99%"></td>
     <td width="33%" align="center" style="vertical-align:0px;"><h4></h4></td>
   </tr>
-
+  </table>
+</div>
 
 <table>
   <tr>
