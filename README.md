@@ -15,14 +15,15 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
     <th>Hackaton Certificat Autumn Hack 2023, Glowbyte</th>
   </tr>
    <tr>
-    <td width="30%" align="center"><img src="diplomes/Yandex_Diplom_0.jpg" alt="alt text" width="90%"><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"><img src="diplomes/ML_Training_Yandex.png" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"><img src="diplomes/GlowByte_Hackathon.jpeg" alt="alt text" width="90%"></td>
+    <td width="30%" align="center"><h2>Yandex Diplom</h2><img src="diplomes/Yandex_Diplom_0.jpg" alt="alt text" width="90%"><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
+    <td width="30%" align="center"><h2>Yandex Diplom1</h2><img src="diplomes/ML_Training_Yandex.png" alt="alt text" width="90%"></td>
+    <td width="30%" align="center"><h2>Yandex Diplom2</h2><img src="diplomes/GlowByte_Hackathon.jpeg" alt="alt text" width="90%"></td>
   </tr>
+  
    <tr>
-    <td width="30%" align="center"><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"></td>
-    <td width="30%" align="center"></td>
+    <td width="30%" align="center"><h2>Yandex Diplom4</h2><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
+    <td width="30%" align="center"><h2>Yandex Diplom5</h2></td>
+    <td width="30%" align="center"><h2>Yandex Diplom6</h2></td>
   </tr>
 
 
