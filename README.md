@@ -5,7 +5,7 @@
 The repository contains data science projects
 completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Prakticum  course.  
 
-<a href="https://github.com/LydmiLAB/yandex-praktikum-projects/blob/main/Yandex_Diplom_.jpg">Сertificate of completion of the course</a>
+<a href="diplomes/Yandex_Diplom_.jpg">Сertificate of completion of the course</a>
 
 
 <table>
