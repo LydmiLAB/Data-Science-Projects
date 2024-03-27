@@ -11,13 +11,13 @@ completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Pr
 <div style="height:30%;">
 <table>
    <tr>
-    <td width="16%" align="center" style="vertical-align:0px;"><h4>Diplom, Yandex</h4><img src="diplomes/Yandex_Diplom_0.jpg" width="99%"><img src="diplomes/Yandex_Diplom_.jpg" width="99%"></td>
-    <td width="16%" align="center" style="vertical-align:0px;"><h4>ML Competition, Yandex</h4><img src="diplomes/ML_Training_Yandex.png"  width="99%"></td>
-    <td width="16%" align="center" style="vertical-align:0px;"><h4>ML Hackaton Autumn Hack 2023, Glowbyte</h4><img src="diplomes/GlowByte_Hackathon.jpeg" width="99%"></td>
+    <td width="20%" align="center" style="vertical-align:0px;"><h4>Diplom, Yandex</h4><img src="diplomes/Yandex_Diplom_0.jpg" width="99%"><img src="diplomes/Yandex_Diplom_.jpg" width="99%"></td>
+    <td width="20%" align="center" style="vertical-align:0px;"><h4>ML Competition, Yandex</h4><img src="diplomes/ML_Training_Yandex.png"  width="99%"></td>
+    <td width="20%" align="center" style="vertical-align:0px;"><h4>ML Hackaton Autumn Hack 2023, Glowbyte</h4><img src="diplomes/GlowByte_Hackathon.jpeg" width="99%"></td>
   
-   <td width="16%" align="center" style="vertical-align:0px;"><h4>Kaggle ML Competition, Samocat.Tech</h4><img src="diplomes/Samokat.Tech.jpg" width="99%"></td>
-    <td width="16%" align="center" style="vertical-align:0px;"><h4>ML-course, Bank of Russia University</h4><img src="diplomes/CBR_certificate.jpg" width="99%"></td>
-    <td width="16%" align="center" style="vertical-align:0px;"><h4></h4></td>
+   <td width="20%" align="center" style="vertical-align:0px;"><h4>Kaggle ML Competition, Samocat.Tech</h4><img src="diplomes/Samokat.Tech.jpg" width="99%"></td>
+    <td width="20%" align="center" style="vertical-align:0px;"><h4>ML-course, Bank of Russia University</h4><img src="diplomes/CBR_certificate.jpg" width="99%"></td>
+    <td width="20%" align="center" style="vertical-align:0px;"><h4></h4></td>
   </tr>
   </table>
 </div>
