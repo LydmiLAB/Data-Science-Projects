@@ -5,25 +5,20 @@
 The repository contains data science projects
 completed by <a href="https://github.com/LydmiLAB">LydmiLAB</a> in the Yandex.Prakticum  course.  
 
-<a href="diplomes/Yandex_Diplom_.jpg">Сertificate of completion of the course</a>
+<a href="diplomes/Yandex_Diplom_.jpg">Сertificate of completions and cources</a>
 
 
 <table>
-  <tr>
-    <th>Yandex Diplom</th>
-    <th style="width:60%;">Yandex Competition Certificat</th>
-    <th>Hackaton Certificat Autumn Hack 2023, Glowbyte</th>
-  </tr>
    <tr>
-    <td width="30%" align="center"><h4 align="top">Yandex Diplom</h4><img src="diplomes/Yandex_Diplom_0.jpg" alt="alt text" width="90%"><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"><h4 style="margin-top:0px;">Yandex Diplom1</h4><img src="diplomes/ML_Training_Yandex.png" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"><h4 style="margin-top:0px;">Yandex Diplom2</h4><img src="diplomes/GlowByte_Hackathon.jpeg" alt="alt text" width="90%"></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4>Yandex Diplom</h4><img src="diplomes/Yandex_Diplom_0.jpg" width="90%"><img src="diplomes/Yandex_Diplom_.jpg" width="90%"></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4>Yandex Competition Certificate</h4><img src="diplomes/ML_Training_Yandex.png"  width="90%"></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4 style="margin-top:0px;">Hackaton Certificate Autumn Hack 2023, Glowbyte</h4><img src="diplomes/GlowByte_Hackathon.jpeg" width="90%"></td>
   </tr>
   
    <tr>
-    <td width="30%" align="center"><h3>Yandex Diplom4</h3><img src="diplomes/Yandex_Diplom_.jpg" alt="alt text" width="90%"></td>
-    <td width="30%" align="center"><h4 style="top:0px;">Yandex Diplom55</h4></td>
-    <td width="30%" align="center"><h3>Yandex Diplom6</h3></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4>Kaggle Competition Certificate SamocatTech</h4><img src="diplomes/Samokat.Tech.jpg" width="90%"></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4>Bank of Russia University Certificate</h4><img src="diplomes/CBR_certificate.jpg" width="90%"></td>
+    <td width="30%" align="center" style="vertical-align:0px;"><h4></h4></td>
   </tr>
 
 
